@@ -1063,7 +1063,7 @@ const sqlQuiz = [
     "Distractor2": "SQL JOIN is used to delete records from a table.",
     "Distractor3": "SQL JOIN is for sorting query results.",
     "Explanation": "SQL JOIN is fundamental for retrieving data from multiple tables by establishing relationships between them.",
-    "Link": "https://www.w3schools.com/sql/sql_join.asp"
+    "Link": "https://www.w3schools.com/sql/sql_join.asp" 
   },
 ];
 
